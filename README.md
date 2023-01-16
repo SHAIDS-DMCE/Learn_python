@@ -14,7 +14,7 @@ It is used for:
 
 - <a href="https://github.com/SHAIDS-DMCE/Learn_python/blob/master/Basics/Hello_world.py">Hello, World !</a>
 - <a href="https://github.com/nirakar24/Learn_python/tree/master/Basics/Numbers%20and%20Strings">Numbers and Strings</a>
-- <a href="https://github.com/nirakar24/Learn_python/tree/master/Basics/lists">list</a>
+- <a href="https://github.com/nirakar24/Learn_python/tree/master/Basics/lists">Lists</a>
 - String formatting
 - Basic String Operations
 - Conditional statement
