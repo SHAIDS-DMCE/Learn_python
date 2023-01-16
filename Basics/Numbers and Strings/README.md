@@ -44,8 +44,8 @@ output
 Hello World!
 That's my phone
 ```
-[Methods in Strings](https://www.w3schools.com/python/python_strings_methods.asp)
+- [Methods in Strings](https://www.w3schools.com/python/python_strings_methods.asp)
 
 ## Other useful links
-[W3Schools](https://www.w3schools.com/python/python_strings.asp)
-[Exercise](https://www.geeksforgeeks.org/python-string-exercise/)
+- [W3Schools](https://www.w3schools.com/python/python_strings.asp)
+- [Exercise](https://www.geeksforgeeks.org/python-string-exercise/)
