@@ -17,13 +17,13 @@ print(num)
 decimal = 6.5  ---> float value
 print(decimal)
 
-num=float(num) #converting Integerto float (Typecasting)
+num = float(num) ---> converting Integer to float (Typecasting)
 print(num)
 ```
  output
 ```bash
 7
-6.5
+6.5 
 7.0
 ```
 ## Strings
@@ -37,7 +37,7 @@ String2 = "That's my phone" ---> Using Double quote
 
 print(String1)
 
-print(String2)
+print(String2) 
 ```
 output
 ```bash
