@@ -13,15 +13,13 @@ It is used for:
 ## Basics
 
 - <a href="https://github.com/SHAIDS-DMCE/Learn_python/blob/master/Basics/Hello_world.py">Hello, World !</a>
-- <a href="https://github.com/SHAIDS-DMCE/Learn_python/tree/master/Basics/Numbers%20and%20Strings">Numbers and Strings</a>
-- <a href="https://github.com/SHAIDS-DMCE/Learn_python/tree/master/Basics/lists">Lists</a>
-- String formatting
-- Basic String Operations
-- Conditional statement
+- <a href="https://github.com/nirakar24/Learn_python/tree/master/Basics/Numbers%20and%20Strings">Numbers and Strings</a>
+- <a href="https://github.com/nirakar24/Learn_python/tree/master/Basics/lists">Lists</a>
+- <a href="https://github.com/nirakar24/Learn_python/tree/master/Basics/Dictionaries">Dictionaries</a>
+- <a href="https://github.com/nirakar24/Learn_python/tree/master/Basics/Conditional_Statements">Conditional Statements</a>
 - Loops
 - Functions
 - Classes and Objects
-- Dictionaries
 - Modules and Packages
 
 ## Data Science modules
