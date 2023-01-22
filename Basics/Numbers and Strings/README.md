@@ -10,14 +10,14 @@ Python supports,
 - Floating point numbers (decimals)
 
 for example
-```bash
-num = 7  ---> Integer value
+```python
+num = 7  #Integer value
 print(num)
 
-decimal = 6.5  ---> float value
+decimal = 6.5  #float value
 print(decimal)
 
-num = float(num) ---> converting Integer to float (Typecasting)
+num = float(num) #converting Integer to float (Typecasting)
 print(num)
 ```
  output
@@ -30,17 +30,17 @@ print(num)
 Strings are either defined in single quote or double quote.
 
 For example,
-```bash
-String1 = 'Hello World!' ---> Using Single quote
+```python
+String1 = 'Hello World!'  #Using Single quote
 
-String2 = "That's my phone" ---> Using Double quote
+String2 = "That's my phone" #Using Double quote
 
 print(String1)
 
 print(String2) 
 ```
 output
-```bash
+```
 Hello World!
 That's my phone
 ```
