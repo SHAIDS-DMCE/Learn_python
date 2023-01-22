@@ -5,14 +5,14 @@ Lists are very similar to arrays. They can contain any type of variable, and the
 
 Lists are always created using square brackets.
 
-```bash
-ex_list = []  ---> Creating an empty list
+```python
+ex_list = []   #Creating an empty list
 
-ex_list.append(1) ---> append the items to the list
+ex_list.append(1)  #append the items to the list
 ex_list.append(2)
 ex_list.append(3)
 
-print(ex_list)  ---> prints new list
+print(ex_list)   #prints new list
 ```
 
 output 
