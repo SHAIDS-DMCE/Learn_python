@@ -69,3 +69,4 @@ Enter a valid age
 - [Real Python](https://realpython.com/python-conditional-statements/)
 - [W3Schools](https://www.w3schools.com/python/python_conditions.asp)
 - [Codes Dope (Exercise)](https://www.codesdope.com/practice/python-decide-ifelse/)
+- [Exercise](https://csiplearninghub.com/python-if-else-conditional-statement-practice/)
