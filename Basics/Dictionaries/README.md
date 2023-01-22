@@ -40,9 +40,9 @@ print(magic_squad["Captain"]) #Printing the value of a key in dictionary
 Yami Sukehiro
 ```
 
- [Methods in Dictionary]("https://www.w3schools.com/python/python_dictionaries_methods.asp")
+ [Methods in Dictionary](https://www.w3schools.com/python/python_dictionaries_methods.asp)
 
 ## Other useful links
-[W3Schools]("https://www.w3schools.com/python/python_dictionaries.asp")
+[W3Schools](https://www.w3schools.com/python/python_dictionaries.asp)
 
-[Exercise]("https://www.geeksforgeeks.org/python-dictionary-exercise/")
+[Exercise](https://www.geeksforgeeks.org/python-dictionary-exercise/)
